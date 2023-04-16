@@ -47,12 +47,12 @@
 
 @font-face {
     font-family: 'Kiona';
-    src: url(fontes/kiona_2/Kiona-Regular.ttf) format("truetype");
+    src: url(../fonts/kiona_2/Kiona-Regular.ttf) format("truetype");
 }
 
 @font-face {
     font-family: 'Star-Wars';
-    src: url(fontes/star_jedi/starjedi/Starjedi.ttf) format("truetype");
+    src: url(../fonts/star_jedi/starjedi/Starjedi.ttf) format("truetype");
 }
 
 :root {
@@ -368,7 +368,7 @@ h1 {
     color: white;
     border-top-right-radius: 5px;
     border-top-left-radius: 5px;
-    background: url(h2-background-episodes.jpg) no-repeat;
+    background: url(../modal-images/h2-background-episodes.jpg) no-repeat;
 }
 
 .paragrafos {
